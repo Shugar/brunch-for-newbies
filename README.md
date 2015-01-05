@@ -17,4 +17,4 @@ http://git.io/skeletons - здесь можно найти другие сбор
 
 После того, как мы склонировали репозиторий %name% со скелетом, который нас устраивает (в моем случае, это brunch-for-homeless), прописываем путь к этому скелету
 
-cd path/to/work/.__brunch-for-homeless__./
+cd path/to/work/__brunch-for-homeless__/
