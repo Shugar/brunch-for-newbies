@@ -4,6 +4,7 @@
 - [Node.js](http://nodejs.org)
 - [git-bash](http://git-scm.com/downloads)
 
+После того, как установили вышенаписанное, двигаемся дальше.
 Запускаем коммандную строку и пишем следующие команды:
 
 - npm install -g bower
