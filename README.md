@@ -13,8 +13,6 @@
 
 - git clone https://github.com/molefrog/brunch-for-homeless
 
-> http://git.io/skeletons - здесь можно найти другие сборки, удобные для вас
-
 После того, как мы склонировали репозиторий %name% со скелетом, который нас устраивает (в моем случае, это brunch-for-homeless), прописываем путь к этому скелету
 
 - cd path/to/work/__brunch-for-homeless__/
@@ -25,4 +23,5 @@
 
 После того, как сервер запущен, в бразуере переходим на **localhost:3333**
 
+> http://git.io/skeletons - здесь можно найти другие скелеты, удобные для вас
 Официальный сайт - http://brunch.io/
