@@ -4,7 +4,7 @@
 - [Node.js](http://nodejs.org)
 - [git-bash](http://git-scm.com/downloads)
 
-Запускаем "node.js command promt" и пишем следующие команды:
+Запускаем коммандную строку и пишем следующие команды:
 
 - npm install -g bower
 - npm install -g brunch
