@@ -1,6 +1,4 @@
 #Brunch for newbies. 
-Официальный сайт - http://brunch.io/
-
 Для того, чтобы мы смогли поднять brunch нужно:
 
 - [Node.js](http://nodejs.org)
