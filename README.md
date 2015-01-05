@@ -3,8 +3,8 @@
 
 Для того, чтобы мы смогли поднять brunch нужно:
 
-1) [Node.js](http://nodejs.org)
-2) [git-bash](http://git-scm.com/downloads)
+- [Node.js](http://nodejs.org)
+- [git-bash](http://git-scm.com/downloads)
 
 Запускаем "node.js command promt" и пишем следующие команды:
 
